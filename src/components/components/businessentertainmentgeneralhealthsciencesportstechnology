@@ -1,0 +1,10 @@
+busines
+sentertainment
+general
+health
+science
+sports
+technology
+
+
+<Route path="/business"><News pageSize={6} country="in" category="science" /></Route>
